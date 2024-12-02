@@ -1,0 +1,17 @@
+{
+    "tours": [
+      {
+        "id": 1,
+        "name": "Путешествие в Париж",
+        "price": 500,
+        "available_seats": 10
+      },
+      {
+        "id": 2,
+        "name": "Круиз по Карибам",
+        "price": 1000,
+        "available_seats": 5
+      }
+    ],
+    "bookings": []
+  }
